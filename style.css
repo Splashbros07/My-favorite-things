@@ -1,0 +1,10 @@
+body {
+  background-color: #9d32a8;
+  font-family: fantasy;
+}
+
+p{
+  font-size: 12px;
+  font-family: monospace;
+  color: rgb(168, 50, 87);
+}
